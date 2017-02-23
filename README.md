@@ -1,2 +1,2 @@
-# UseCases
-All potential use cases / channel exploration and ideas
+# Vertical Solutions
+focused on planning activities, deliverables for Vertical Solutions
